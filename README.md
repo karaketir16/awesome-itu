@@ -1,5 +1,8 @@
 # awesome-itu
 Istanbul Technical University
+## One link to rule them all 
+- http://notkutusu.com
+
 ## EHB
 - https://burakkurt.net/dersler/
 - http://ramazanaktas.blogspot.com/2015/09/istanbul-teknik-universitesi-ders-notlar.html
