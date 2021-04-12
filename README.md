@@ -9,6 +9,8 @@ Istanbul Technical University
 - https://www.aliilhamioztan.com/itu-ders-notlari
 - http://mertkarakurtjk.blogspot.com/2018/02/itu-elektronik-ve-haberlesme.html
 - http://utkuemreali.com/itu-ders-notu-arsivi/
+- http://hlkcrcck.github.io/en/blog01.html
+- https://web.itu.edu.tr/eranil17/
 - ~https://www.birgaripmuhendiss.com/~
 
 ## BLG
