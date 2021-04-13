@@ -17,6 +17,7 @@ Istanbul Technical University
 - http://tinyurl.com/itu-lecture-files | https://drive.google.com/drive/folders/1Z23KTXwVsPAl6IdnCIi1wXkE56PyrDYS
 - https://web.itu.edu.tr/yasakci/
 - https://www.dropbox.com/sh/92i2tm7h32qeskh/AABbR4NUVoUWvZjdIsdJRpF9a?dl=0
+- https://github.com/KadirEmreOto/ITU-CE
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
