@@ -23,6 +23,7 @@ Istanbul Technical University
 - https://github.com/fatihaltinpinar/School
 - https://github.com/mehmetaltuner/School-Projects
 - https://github.com/seferciogluecce/Istanbul_Technical_University_Projects
+- https://github.com/malemar/ITU-BSc-Computer-Engineering-Homeworks
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
