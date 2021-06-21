@@ -22,6 +22,7 @@ Istanbul Technical University
 - https://github.com/Asocia/schoolwork
 - https://github.com/fatihaltinpinar/School
 - https://github.com/mehmetaltuner/School-Projects
+- https://github.com/seferciogluecce/Istanbul_Technical_University_Projects
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
