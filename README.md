@@ -21,6 +21,7 @@ Istanbul Technical University
 - https://github.com/KadirEmreOto/ITU-CE
 - https://github.com/Asocia/schoolwork
 - https://github.com/fatihaltinpinar/School
+- https://github.com/mehmetaltuner/School-Projects
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
