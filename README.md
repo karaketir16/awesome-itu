@@ -27,6 +27,7 @@ Istanbul Technical University
 - https://github.com/emreozdil/ITU-Computer-Engineering
 - https://github.com/erdoganhuse/ITU-BSc-Projects
 - https://github.com/tugrulyatagan/itu_comp_eng_lectures
+- https://github.com/batuhanfaik/itu-cmpe
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
