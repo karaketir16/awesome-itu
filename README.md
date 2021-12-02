@@ -15,6 +15,7 @@ Istanbul Technical University
 - ~https://www.birgaripmuhendiss.com/~
 
 ## Computer Engineering
+- https://drive.google.com/drive/folders/1t4v7edNCOc-YrKlcmDbNS_mEkaIYABBv
 - http://tinyurl.com/itu-lecture-files | https://drive.google.com/drive/folders/1Z23KTXwVsPAl6IdnCIi1wXkE56PyrDYS
 - https://web.itu.edu.tr/yasakci/
 - https://www.dropbox.com/sh/92i2tm7h32qeskh/AABbR4NUVoUWvZjdIsdJRpF9a?dl=0
