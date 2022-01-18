@@ -4,7 +4,7 @@ Istanbul Technical University
 - http://notkutusu.com
 
 ## Electronics and Communication Engineering
-- https://burakkurt.net/dersler/
+- ~https://burakkurt.net/dersler/~
 - http://ramazanaktas.blogspot.com/2015/09/istanbul-teknik-universitesi-ders-notlar.html
 - https://www.aliilhamioztan.com/itu-ders-notlari
 - http://mertkarakurtjk.blogspot.com/2018/02/itu-elektronik-ve-haberlesme.html
