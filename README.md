@@ -32,6 +32,7 @@ Istanbul Technical University
 - https://github.com/CihatAltiparmak/ITU-CE
 - https://github.com/seyfkutluk/ITU_CE_LECTURES
 - https://github.com/YasmeenAbdelghany19/ITU_projects
+- https://github.com/ozanozyegen/ITU-Computer-Engineering-Assignments
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
