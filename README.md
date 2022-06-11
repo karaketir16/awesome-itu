@@ -1,5 +1,6 @@
 # awesome-itu
 Istanbul Technical University
+
 ## One link to rule them all 
 - http://notkutusu.com
 
@@ -36,6 +37,8 @@ Istanbul Technical University
 - https://github.com/burakbugrul/ITU-Computer-Engineering
 - https://github.com/uguruysal0/itucourses
 - https://github.com/Mustafa-Tosun/ITU-Computer-Engineering
+#### From Instructor
+- https://github.com/uyar/cs-slides
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
