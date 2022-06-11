@@ -42,6 +42,9 @@ Istanbul Technical University
 - https://github.com/Mustafa-Tosun/ITU-Computer-Engineering
 #### From Instructor
 - https://github.com/uyar/cs-slides
+#### People Without Sigle Repo For Courses
+- https://github.com/YigitBalik
+- https://github.com/mihribannurkocak
 
 ## Mechanical Engineering
 - https://drive.google.com/drive/folders/0B8Sez2nul1ckRmZOZ1ZVQVNudVE
