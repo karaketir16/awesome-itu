@@ -42,6 +42,8 @@ Istanbul Technical University
 - https://github.com/Mustafa-Tosun/ITU-Computer-Engineering
 - https://github.com/fmurat17/ITU-Assignments
 - https://github.com/yilmazmuhammed/ITU-CE-Courses
+- https://github.com/necrocultist/School-Stuff
+
 #### From Instructor
 - https://github.com/uyar/cs-slides
 #### People Without Sigle Repo For Courses
