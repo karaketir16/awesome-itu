@@ -44,6 +44,7 @@ Istanbul Technical University
 - https://github.com/yilmazmuhammed/ITU-CE-Courses
 - https://github.com/necrocultist/School-Stuff
 - https://github.com/sfurkan20/ITU-Computer-Engineering
+- https://github.com/HFDurkaya/ITU_Comp_Eng
 
 #### From Instructor
 - https://github.com/uyar/cs-slides
