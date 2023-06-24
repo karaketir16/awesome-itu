@@ -43,6 +43,7 @@ Istanbul Technical University
 - https://github.com/fmurat17/ITU-Assignments
 - https://github.com/yilmazmuhammed/ITU-CE-Courses
 - https://github.com/necrocultist/School-Stuff
+- https://github.com/sfurkan20/ITU-Computer-Engineering
 
 #### From Instructor
 - https://github.com/uyar/cs-slides
