@@ -23,32 +23,33 @@ Istanbul Technical University
 - http://tinyurl.com/itu-lecture-files | https://drive.google.com/drive/folders/1Z23KTXwVsPAl6IdnCIi1wXkE56PyrDYS
 - https://web.itu.edu.tr/yasakci/
 - https://www.dropbox.com/sh/92i2tm7h32qeskh/AABbR4NUVoUWvZjdIsdJRpF9a?dl=0
-- https://github.com/KadirEmreOto/ITU-CE
-- https://github.com/Asocia/schoolwork
-- https://github.com/fatihaltinpinar/School
-- https://github.com/mehmetaltuner/School-Projects
-- https://github.com/seferciogluecce/Istanbul_Technical_University_Projects
-- https://github.com/malemar/ITU-BSc-Computer-Engineering-Homeworks | https://github.com/sarikaya/ITU-BSc-Computer-Engineering-Homeworks
-- https://github.com/emreozdil/ITU-Computer-Engineering
-- https://github.com/erdoganhuse/ITU-BSc-Projects
-- https://github.com/tugrulyatagan/itu_comp_eng_lectures
-- https://github.com/batuhanfaik/itu-cmpe
-- https://github.com/CihatAltiparmak/ITU-CE
-- https://github.com/seyfkutluk/ITU_CE_LECTURES
-- https://github.com/YasmeenAbdelghany19/ITU_projects
-- https://github.com/ozanozyegen/ITU-Computer-Engineering-Assignments
-- https://github.com/burakbugrul/ITU-Computer-Engineering
-- https://github.com/uguruysal0/itucourses
-- https://github.com/Mustafa-Tosun/ITU-Computer-Engineering
-- https://github.com/fmurat17/ITU-Assignments
-- https://github.com/yilmazmuhammed/ITU-CE-Courses
-- https://github.com/necrocultist/School-Stuff
-- https://github.com/sfurkan20/ITU-Computer-Engineering
-- https://github.com/HFDurkaya/ITU_Comp_Eng
+- https://github.com/KadirEmreOto/ITU-CE ![GitHub Repo stars](https://img.shields.io/github/stars/KadirEmreOto/ITU-CE?style=social)
+- https://github.com/Asocia/schoolwork ![GitHub Repo stars](https://img.shields.io/github/stars/Asocia/schoolwork?style=social)
+- https://github.com/fatihaltinpinar/School ![GitHub Repo stars](https://img.shields.io/github/stars/fatihaltinpinar/School?style=social)
+- https://github.com/mehmetaltuner/School-Projects ![GitHub Repo stars](https://img.shields.io/github/stars/mehmetaltuner/School-Projects?style=social)
+- https://github.com/seferciogluecce/Istanbul_Technical_University_Projects ![GitHub Repo stars](https://img.shields.io/github/stars/seferciogluecce/Istanbul_Technical_University_Projects?style=social)
+- https://github.com/malemar/ITU-BSc-Computer-Engineering-Homeworks ![GitHub Repo stars](https://img.shields.io/github/stars/malemar/ITU-BSc-Computer-Engineering-Homeworks?style=social)
+- https://github.com/sarikaya/ITU-BSc-Computer-Engineering-Homeworks ![GitHub Repo stars](https://img.shields.io/github/stars/sarikaya/ITU-BSc-Computer-Engineering-Homeworks?style=social)
+- https://github.com/emreozdil/ITU-Computer-Engineering ![GitHub Repo stars](https://img.shields.io/github/stars/emreozdil/ITU-Computer-Engineering?style=social)
+- https://github.com/erdoganhuse/ITU-BSc-Projects ![GitHub Repo stars](https://img.shields.io/github/stars/erdoganhuse/ITU-BSc-Projects?style=social)
+- https://github.com/tugrulyatagan/itu_comp_eng_lectures ![GitHub Repo stars](https://img.shields.io/github/stars/tugrulyatagan/itu_comp_eng_lectures?style=social)
+- https://github.com/batuhanfaik/itu-cmpe ![GitHub Repo stars](https://img.shields.io/github/stars/batuhanfaik/itu-cmpe?style=social)
+- https://github.com/CihatAltiparmak/ITU-CE ![GitHub Repo stars](https://img.shields.io/github/stars/CihatAltiparmak/ITU-CE?style=social)
+- https://github.com/seyfkutluk/ITU_CE_LECTURES ![GitHub Repo stars](https://img.shields.io/github/stars/seyfkutluk/ITU_CE_LECTURES?style=social)
+- https://github.com/YasmeenAbdelghany19/ITU_projects ![GitHub Repo stars](https://img.shields.io/github/stars/YasmeenAbdelghany19/ITU_projects?style=social)
+- https://github.com/ozanozyegen/ITU-Computer-Engineering-Assignments ![GitHub Repo stars](https://img.shields.io/github/stars/ozanozyegen/ITU-Computer-Engineering-Assignments?style=social)
+- https://github.com/burakbugrul/ITU-Computer-Engineering ![GitHub Repo stars](https://img.shields.io/github/stars/burakbugrul/ITU-Computer-Engineering?style=social)
+- https://github.com/uguruysal0/itucourses ![GitHub Repo stars](https://img.shields.io/github/stars/uguruysal0/itucourses?style=social)
+- https://github.com/Mustafa-Tosun/ITU-Computer-Engineering ![GitHub Repo stars](https://img.shields.io/github/stars/Mustafa-Tosun/ITU-Computer-Engineering?style=social)
+- https://github.com/fmurat17/ITU-Assignments ![GitHub Repo stars](https://img.shields.io/github/stars/fmurat17/ITU-Assignments?style=social)
+- https://github.com/yilmazmuhammed/ITU-CE-Courses ![GitHub Repo stars](https://img.shields.io/github/stars/yilmazmuhammed/ITU-CE-Courses?style=social)
+- https://github.com/necrocultist/School-Stuff ![GitHub Repo stars](https://img.shields.io/github/stars/necrocultist/School-Stuff?style=social)
+- https://github.com/sfurkan20/ITU-Computer-Engineering ![GitHub Repo stars](https://img.shields.io/github/stars/sfurkan20/ITU-Computer-Engineering?style=social)
+- https://github.com/HFDurkaya/ITU_Comp_Eng ![GitHub Repo stars](https://img.shields.io/github/stars/HFDurkaya/ITU_Comp_Eng?style=social)
 
 #### From Instructor
-- https://github.com/uyar/cs-slides
-#### People Without Sigle Repo For Courses
+- https://github.com/uyar/cs-slides ![GitHub Repo stars](https://img.shields.io/github/stars/uyar/cs-slides?style=social)
+#### People Without Single Repo For Courses
 - https://github.com/YigitBalik
 - https://github.com/mihribannurkocak
 
