@@ -46,6 +46,7 @@ Istanbul Technical University
 - https://github.com/necrocultist/School-Stuff ![GitHub Repo stars](https://img.shields.io/github/stars/necrocultist/School-Stuff?style=social)
 - https://github.com/sfurkan20/ITU-Computer-Engineering ![GitHub Repo stars](https://img.shields.io/github/stars/sfurkan20/ITU-Computer-Engineering?style=social)
 - https://github.com/HFDurkaya/ITU_Comp_Eng ![GitHub Repo stars](https://img.shields.io/github/stars/HFDurkaya/ITU_Comp_Eng?style=social)
+- https://github.com/casperh123/Programmering-ITU ![GitHub Repo stars](https://img.shields.io/github/stars/casperh123/Programmering-ITU?style=social)
 
 #### From Instructor
 - https://github.com/uyar/cs-slides ![GitHub Repo stars](https://img.shields.io/github/stars/uyar/cs-slides?style=social)
