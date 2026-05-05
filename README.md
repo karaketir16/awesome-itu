@@ -17,6 +17,7 @@ Istanbul Technical University
 - https://web.itu.edu.tr/eranil17/
 - [eryilmazy18_itu](https://ituedutr-my.sharepoint.com/:f:/g/personal/eryilmazy18_itu_edu_tr/EjbaR7Qt7hlHhQByjVtpQJIBnwrYzDaslnxm_PwBHtoB_Q?e=Qcs4r8)
 - ~https://www.birgaripmuhendiss.com/~
+- https://github.com/yigitbektasgursoy/Electronics_and_Communication_Engineering_ITU
 
 ## Computer Engineering
 - https://drive.google.com/drive/folders/1t4v7edNCOc-YrKlcmDbNS_mEkaIYABBv
